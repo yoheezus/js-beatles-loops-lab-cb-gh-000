@@ -25,7 +25,7 @@ function johnLennonFacts(facts) {
         shoutedFacts.push(facts[i] + '!!!');
         i++;
     }
-    return facts;
+    return shoutedFacts;
 }
 
 function iLoveTheBeatles(n) {
